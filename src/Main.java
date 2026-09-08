@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Esse é o filmtrack");
         System.out.println("Filme: Top Gun: Maverick");
         System.out.println("Ano de lançamento: " + anoDeLancamento);
+        System.out.println("Está no plano" + incluidoNoPlano);
         System.out.println("Nota do filme: " + notaDoFilme);
     }
 }
